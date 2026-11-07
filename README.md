@@ -25,7 +25,7 @@ Compare reported domains with recognised official domains:
 1. Kenyan organisations have faced reported website impersonation.
 2. Users may encounter websites imitating recognised organisations.
 3. Knowing the correct official domain can help users identify potential impersonation.
-4. CloneGuard KE proposes making these checks accessible through a browser extension.
+4. Flare Gun proposes making these checks accessible through a browser extension.
 
 Proof-of-concept conclusion:
 
