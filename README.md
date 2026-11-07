@@ -2,7 +2,7 @@
 
 Objective: Demonstrate why a Kenyan website identity verification extension is needed, using documented website impersonation cases.
 
-### Evidence from Version 4
+### Evidence
 
 | Suspicious domain | Organisation impersonated | Research finding                                                        |
 | ----------------- | ------------------------- | ----------------------------------------------------------------------- |
